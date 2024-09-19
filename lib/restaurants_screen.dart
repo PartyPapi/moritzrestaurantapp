@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'RestaurantsDetailScreen.dart';
-import 'QueryTestScreen.dart';
 
 class RestaurantListPage extends StatefulWidget {
   @override
